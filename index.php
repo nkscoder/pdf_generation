@@ -11,5 +11,15 @@ foreach($row as $rowValue) {
 		$pdf->SetFont('Arial','',12);		
 		$pdf->Ln();
 }
-$pdf->Output();
+
+//$pdf->Output();
+//$pdf->Output('filename.pdf','F');
+
+$dir='/var/www/html/pdf-generation/';
+$filename= "filename.pdf";
+
+$pdf->Output($dir.$filename,'F');
+
+echo $dir.$filename;
+
 ?>

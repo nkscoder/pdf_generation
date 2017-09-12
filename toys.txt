@@ -1,7 +1,7 @@
-Name;Type
-Ben 10 Watch;Battery Toys
-Angry Birds Gun;Mechanical Toys
-Remote Car;Remote Toys
-Uno Cards;Card Game
-Keyboard;Musical Toys
-Jigsaws;Board Game
+Name;Type;nitesh;kumar
+Ben 10 Watch;Battery Toys;1;2
+Angry Birds Gun;Mechanical Toys;1;2
+Remote Car;Remote Toys;1;2
+Uno Cards;Card Game;1;2
+Keyboard;Musical Toys;1;2
+Jigsaws;Board Game;1;2
